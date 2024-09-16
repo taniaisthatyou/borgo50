@@ -1,0 +1,8 @@
+{
+  "logLevel": "silent",
+  "notify": false,
+  "files": ["./**/*.{html,htm,css,js}"],
+  "server": {
+    "baseDir": "./"
+  }
+}
