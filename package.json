@@ -1,0 +1,32 @@
+{
+  "name": "borgo50",
+  "version": "1.0.0",
+  "description": "A simple website project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "build-css": "sass src/styles/styles.scss src/styles/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taniaisthatyou/borgo50.git"
+  },
+  "keywords": [
+    "website",
+    "static",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "taniaisthatyou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taniaisthatyou/borgo50/issues"
+  },
+  "homepage": "https://github.com/taniaisthatyou/borgo50#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "sass": "^1.78.0"
+  }
+}
